@@ -6,7 +6,9 @@
    2. Paas- Customers are provided with application and data the other computing features are supported by CSP
    3. Saas- Customers are provided with Software and the other computing features are supported by CSP
 5. Introduction to Azure:
+
    1. Subscription- Pay as you go methodolgy according to cloud platform usage by the user 
    2. Policy - Rules or constraints to access cloud storage 
    3. Soverign Cloud- Highly secure cloud bound to policies of countries such as US,China
    4. Region- Contains data centres at locations
+   5. Resource
