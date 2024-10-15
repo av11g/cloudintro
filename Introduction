@@ -1,0 +1,12 @@
+1. Introduction to cloud computing
+2. Advantages and features of cloud which includes scalability and feasibility
+3. About On-Prem: The method of computing where the data centres are owned and features are supported privately by individuals 
+4. Differentiation between Iaas,Paas and Saas:
+   1. Iaas- Customers are provided with data,runtime,application and the rest is taken care by CSP
+   2. Paas- Customers are provided with application and data the other computing features are supported by CSP
+   3. Saas- Customers are provided with Software and the other computing features are supported by CSP
+5. Introduction to Azure:
+   1. Subscription- Pay as you go methodolgy according to cloud platform usage by the user 
+   2. Policy - Rules or constraints to access cloud storage 
+   3. Soverign Cloud- Highly secure cloud bound to policies of countries such as US,China
+   4. Region- Contains data centres at locations
